@@ -3,7 +3,7 @@
 ## Description 
 
 Ensemble des resources ayant servi à l'analyse du questionnaire "données et science ouverte" de l'étude Décliner la science ouverte (Decliner-SO) dans une démarche de reproductibilité. 
-Pour en savoir plus sur l'étude et ses résultats : https://declinerso.pubpub.org/
+Pour en savoir plus sur l'étude et ses résultats : https://declinerso.pubpub.org/ + ajout lien vers l'étude sur HAL quand publié
 
 ## Navigation 
 
@@ -11,6 +11,7 @@ Vous trouverez dans ce projet :
 - `Data` avec les différents jeux de données ayant servi à l'analyse ou qui ont été généré lors de l'analyse
 - `Scripts`
     - le jupyter notebook d'Emilien Schultz explicitant la démarche de reproductibilité de l'analyse initiale (passage de R à Python)
+    - les fonctions pyr.py supplémentaires (nouvelles fonctions pour s'adapter aux bibliothèques R)
     - un fichier log.md de suivi de modification (ce projet est en toujours un travail en cours)
 - `Méthodo` 
     - une note méthodologique pour documenter l'analyse initiale et qui a servi de base au travail de reproductibilité
