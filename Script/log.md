@@ -1,5 +1,13 @@
 # Décliner la science ouverte
 
+## Modification du 19 et 20/07/2022 par Emilien et Célya
+
+- séparation étape recodage et essai de reproduction pour mettre données brutes diffusables à disposition
+- création d'un jupyternotebook `transformation data raw.ipynb` pour obtenir les jeux de données brutes diffusables et non diffusables (non mis sur le gitlab)
+- mise à jour du jupyter notebook de reproduction avec information supp, ccl
+- mise à jour du gitlab
+
+
 
 ## Modification du 21/06/2022 par Célya
 
