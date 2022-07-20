@@ -3,16 +3,16 @@
 ## Description 
 
 Ensemble des resources ayant servi à l'analyse du questionnaire "données et science ouverte" de l'étude Décliner la science ouverte (Decliner-SO) dans une démarche de reproductibilité. 
-Pour en savoir plus sur l'étude et ses résultats : https://declinerso.pubpub.org/ + ajout lien vers l'étude sur HAL quand publié
+Pour en savoir plus sur l'étude et ses résultats : https://declinerso.pubpub.org/ + résumé de l'étude sur [HAL](ajout lien)
 
 ## Navigation 
 
 Vous trouverez dans ce projet : 
-- `Data` avec les différents jeux de données ayant servi à l'analyse ou qui ont été généré lors de l'analyse
+- `Data` avec le jeu de données brutes (après anonymisation) disponible également sur [recherche.data.gouv](ajout lien)
 - `Scripts`
     - le jupyter notebook d'Emilien Schultz explicitant la démarche de reproductibilité de l'analyse initiale (passage de R à Python)
     - les fonctions pyr.py supplémentaires (nouvelles fonctions pour s'adapter aux bibliothèques R)
-    - un fichier log.md de suivi de modification (ce projet est en toujours un travail en cours)
+    - un fichier log.md de suivi de modification (ce projet a fait l'objet de différentes itérations entre l'équipe projet et Emilien)
 - `Méthodo` 
     - une note méthodologique pour documenter l'analyse initiale et qui a servi de base au travail de reproductibilité
 
@@ -25,7 +25,7 @@ L'analyse du questionnaire "données et science ouverte" a été réalisée coll
 - Claire Lemercier (CNRS - CSO/SciencePo) pour l'analyse statistique sur R;
 - Célya Gruson-Daniel (INNO3 - COSTECH/UTC) pour l'articulation avec l'analyse qualitative
 
-La démarche de reproductibilité avec la réalisation du notebook python et des fonctions supplémentaires a été réalisée par Emilien Schultz (CEPED/IRD - SESSTIM) avec un travail d'itération avec Célya Gruson-Daniel et Claire Lemercier
+La démarche de reproductibilité avec la réalisation du notebook python et des fonctions supplémentaires a été réalisée par Emilien Schultz (Medialab/SciencePo) avec un travail d'itération avec Célya Gruson-Daniel et Claire Lemercier
 
 ## License
 
