@@ -225,13 +225,13 @@ Q512. 37. Quel est le.. ,structure,,contexte de travail
 Q513_SQ001. 38. Quelle est ..  [Enseignement-su.. ],fct_perma,,contexte de travail
 Q513_SQ002. 38. Quelle est ..  [Enseignement su.. ],fct_nonperma,,contexte de travail
 "Q513_SQ003. 38. Quelle est ..  [Ingénieur.e, te.. ]",fct_IT,,contexte de travail
-Q513_SQ004. 38. Quelle est ..  [Systèmes d’info.. ],fct_SI,x,contexte de travail
+Q513_SQ004. 38. Quelle est ..  [Systèmes d’info.. ],fct_SI,,contexte de travail
 "Q513_SQ005. 38. Quelle est ..  [Bibliothèques, .. ]",fct_bib,,contexte de travail
-Q513_SQ006. 38. Quelle est ..  [Affaires juridi.. ],fct_jur,x,contexte de travail
-Q513_SQ007. 38. Quelle est ..  [Valorisation de.. ],fct_valo,x,contexte de travail
-Q513_SQ008. 38. Quelle est ..  [Transformation .. ],fct_sciouv,x,contexte de travail
-"Q513_SQ009. 38. Quelle est ..  [Management, pil.. ]",fct_manag,x,contexte de travail
-Q513_SQ010. 38. Quelle est ..  [Communication –.. ],fct_com,x,contexte de travail
+Q513_SQ006. 38. Quelle est ..  [Affaires juridi.. ],fct_jur,,contexte de travail
+Q513_SQ007. 38. Quelle est ..  [Valorisation de.. ],fct_valo,,contexte de travail
+Q513_SQ008. 38. Quelle est ..  [Transformation .. ],fct_sciouv,,contexte de travail
+"Q513_SQ009. 38. Quelle est ..  [Management, pil.. ]",fct_manag,,contexte de travail
+Q513_SQ010. 38. Quelle est ..  [Communication –.. ],fct_com,,contexte de travail
 Q514. 39. Quel est vo.. ,statut,,contexte de travail
 "Q515_SQ001. 40. Lesquelles ..  [Droit, économie.. ]",disc_dt,,contexte de travail
 Q515_SQ002. 40. Lesquelles ..  [Informatique et.. ],disc_inf,,contexte de travail
