@@ -1,0 +1,246 @@
+brut,reco,variable enlevée dans QSO2,classe
+id. ID de la réponse,ID,,
+Q111_SQ001. 1. Environnemen..  [Laboratoire néc.. ],envir_labo,,contexte de travail
+Q111_SQ002. 1. Environnemen..  [Cadre clinique/.. ],envir_clinique,,contexte de travail
+Q111_SQ003. 1. Environnemen..  [Travail de « te.. ],envir_terrain,,contexte de travail
+Q111_SQ004. 1. Environnemen..  [Bibliothèque ou.. ],envir_bibarchives,,contexte de travail
+Q111_SQ005. 1. Environnemen..  [Sur un ordinate.. ],envir_modele,,contexte de travail
+Q111_SQ006. 1. Environnemen..  [Sur un ordinate.. ],envir_theoredac,,contexte de travail
+Q212_SQ001. 2. Le terme de ..  [Corpus],terme_corpus,,open science
+Q212_SQ002. 2. Le terme de ..  [Ressources],terme_ressources,,open science
+Q212_SQ003. 2. Le terme de ..  [Valeurs],terme_valeurs,,open science
+Q212_SQ004. 2. Le terme de ..  [Sources],terme_sources,,open science
+Q212_SQ005. 2. Le terme de ..  [Matériaux],terme_materiaux,,open science
+Q212_SQ006. 2. Le terme de ..  [Mesures],terme_mesures,,open science
+Q212_SQ007. 2. Le terme de ..  [Statistiques],terme_stat,,open science
+Q212_SQ008. 2. Le terme de ..  [Jeux de données.. ],terme_jeuxdo,,open science
+Q212_SQ009. 2. Le terme de ..  [Base de données],terme_basedo,,open science
+Q212_SQ010. 2. Le terme de ..  [Pipeline],terme_pipeline,,open science
+Q212_SQ011. 2. Le terme de ..  [Données brutes],terme_brutes,,open science
+Q212_SQ012. 2. Le terme de ..  [Données nettoyées],terme_nettoyees,,open science
+Q212_SQ013. 2. Le terme de ..  [Données négatives],terme_negatives,,open science
+Q112_SQ001. 3. Lesquelles d..  [Amélioration de.. ],plus_tech,,contexte de travail
+Q112_SQ009. 3. Lesquelles d..  [Préparation d'é.. ],plus_expe,,contexte de travail
+Q112_SQ002. 3. Lesquelles d..  [Standardisation.. ],plus_autom,,contexte de travail
+Q112_SQ003. 3. Lesquelles d..  [Collecte de don.. ],plus_dorares,,contexte de travail
+Q112_SQ008. 3. Lesquelles d..  [Collecte de don.. ],plus_dostandards,,contexte de travail
+Q112_SQ004. 3. Lesquelles d..  [Création d’une .. ],plus_theo,,contexte de travail
+Q112_SQ005. 3. Lesquelles d..  [Automatisation .. ],plus_workflow,,contexte de travail
+Q112_SQ006. 3. Lesquelles d..  [Création d’arte.. ],plus_modeli,,contexte de travail
+Q112_SQ007. 3. Lesquelles d..  [Support à la re.. ],plus_support,,contexte de travail
+Q113. 4. Familiarité .. ,reprofam,,open science
+Q114_SQ001. 5. Quels mots r..  [Traçabilité],quali_tracabilite,,open science
+Q114_SQ002. 5. Quels mots r..  [Réplicabilité],quali_replicabilite,,open science
+Q114_SQ007. 5. Quels mots r..  [Reproductibilité],quali_reproductibilite,,open science
+Q114_SQ003. 5. Quels mots r..  [Explicabilité],quali_explicabilite,,open science
+Q114_SQ004. 5. Quels mots r..  [Recherche ouverte],quali_rechouv,,open science
+Q114_SQ005. 5. Quels mots r..  [Open scholarship],quali_openschol,,open science
+Q114_SQ006. 5. Quels mots r..  [Transparence],quali_transparence,,open science
+Q211_SQ001_0. 6. Etapes assoc..  [Collecter des d.. ][Échelle 1],temps_collecte,,contexte de travail
+Q211_SQ001_1. 6. Etapes assoc..  [Collecter des d.. ][Échelle 2],seul_collecte,x,contexte de travail
+Q211_SQ002_0. 6. Etapes assoc..  [Numériser des s.. ][Échelle 1],temps_numeriser,,contexte de travail
+Q211_SQ002_1. 6. Etapes assoc..  [Numériser des s.. ][Échelle 2],seul_numeriser,x,contexte de travail
+Q211_SQ003_0. 6. Etapes assoc..  [Constituer un c.. ][Échelle 1],temps_corpus,,contexte de travail
+Q211_SQ003_1. 6. Etapes assoc..  [Constituer un c.. ][Échelle 2],seul_corpus,x,contexte de travail
+Q211_SQ004_0. 6. Etapes assoc..  [Nettoyer des do.. ][Échelle 1],temps_nettoyer,,contexte de travail
+Q211_SQ004_1. 6. Etapes assoc..  [Nettoyer des do.. ][Échelle 2],seul_nettoyer,x,contexte de travail
+Q211_SQ005_0. 6. Etapes assoc..  [Structurer une .. ][Échelle 1],temps_structurer,,contexte de travail
+Q211_SQ005_1. 6. Etapes assoc..  [Structurer une .. ][Échelle 2],seul_structurer,x,contexte de travail
+Q211_SQ006_0. 6. Etapes assoc..  [Analyser des do.. ][Échelle 1],temps_analyser,,contexte de travail
+Q211_SQ006_1. 6. Etapes assoc..  [Analyser des do.. ][Échelle 2],seul_analyser,x,contexte de travail
+Q211_SQ007_0. 6. Etapes assoc..  [Modéliser des d.. ][Échelle 1],temps_modeliser,,contexte de travail
+Q211_SQ007_1. 6. Etapes assoc..  [Modéliser des d.. ][Échelle 2],seul_modeliser,x,contexte de travail
+Q211_SQ008_0. 6. Etapes assoc..  [Visualiser des .. ][Échelle 1],temps_visu,,contexte de travail
+Q211_SQ008_1. 6. Etapes assoc..  [Visualiser des .. ][Échelle 2],seul_visu,x,contexte de travail
+Q211_SQ009_0. 6. Etapes assoc..  [Qualifier/ décr.. ][Échelle 1],temps_qualifier,,contexte de travail
+Q211_SQ009_1. 6. Etapes assoc..  [Qualifier/ décr.. ][Échelle 2],seul_qualifier,x,contexte de travail
+Q211_SQ010_0. 6. Etapes assoc..  [Développer des .. ][Échelle 1],temps_interfaces,x,contexte de travail
+Q211_SQ010_1. 6. Etapes assoc..  [Développer des .. ][Échelle 2],seul_interfaces,x,contexte de travail
+Q211_SQ011_0. 6. Etapes assoc..  [Sauvegarder et/.. ][Échelle 1],temps_archiver,,contexte de travail
+Q211_SQ011_1. 6. Etapes assoc..  [Sauvegarder et/.. ][Échelle 2],seul_archiver,x,contexte de travail
+Q211_SQ012_0. 6. Etapes assoc..  [Construire un p.. ][Échelle 1],temps_pgd,x,contexte de travail
+Q211_SQ012_1. 6. Etapes assoc..  [Construire un p.. ][Échelle 2],seul_pgd,x,contexte de travail
+Q211_SQ013_0. 6. Etapes assoc..  [Vérifier les do.. ][Échelle 1],temps_qualite,,contexte de travail
+Q211_SQ013_1. 6. Etapes assoc..  [Vérifier les do.. ][Échelle 2],seul_qualite,x,contexte de travail
+Q211_SQ014_0. 6. Etapes assoc..  [Mette en confor.. ][Échelle 1],temps_jur,x,contexte de travail
+Q211_SQ014_1. 6. Etapes assoc..  [Mette en confor.. ][Échelle 2],seul_jur,x,contexte de travail
+Q211_SQ015_0. 6. Etapes assoc..  [Mettre à dispos.. ][Échelle 1],temps_disporech,,contexte de travail
+Q211_SQ015_1. 6. Etapes assoc..  [Mettre à dispos.. ][Échelle 2],seul_disporech,x,contexte de travail
+Q211_SQ016_0. 6. Etapes assoc..  [Mettre à dispos.. ][Échelle 1],temps_dispogp,x,contexte de travail
+Q211_SQ016_1. 6. Etapes assoc..  [Mettre à dispos.. ][Échelle 2],seul_dispogp,x,contexte de travail
+Q211_SQ017_0. 6. Etapes assoc..  [Valoriser les d.. ][Échelle 1],temps_valo,x,contexte de travail
+Q211_SQ017_1. 6. Etapes assoc..  [Valoriser les d.. ][Échelle 2],seul_valo,x,contexte de travail
+Q211_SQ018_0. 6. Etapes assoc..  [Aider à la comp.. ][Échelle 1],temps_com,,contexte de travail
+Q211_SQ018_1. 6. Etapes assoc..  [Aider à la comp.. ][Échelle 2],seul_com,x,contexte de travail
+Q211_SQ019_0. 6. Etapes assoc..  [Former d’autres.. ][Échelle 1],temps_formation,,contexte de travail
+Q211_SQ019_1. 6. Etapes assoc..  [Former d’autres.. ][Échelle 2],seul_formation,x,contexte de travail
+Q213_SQ001. 7. Sources de v..  [Terrain (fouill.. ],source_terrain,,contexte de travail
+Q213_SQ002. 7. Sources de v..  [Instruments de .. ],source_instru,,contexte de travail
+Q213_SQ003. 7. Sources de v..  [Bases de donnée.. ],source_bddOA,,contexte de travail
+Q213_SQ004. 7. Sources de v..  [Bases de donnée.. ],source_bddabo,,contexte de travail
+Q213_SQ005. 7. Sources de v..  [Données/bases d.. ],source_bddcoll,,contexte de travail
+Q213_SQ006. 7. Sources de v..  [Articles scient.. ],source_article,,contexte de travail
+Q213_SQ007. 7. Sources de v..  [Sites web et ré.. ],source_web,,contexte de travail
+Q213_SQ008. 7. Sources de v..  [Archives ou fon.. ],source_archive,,contexte de travail
+Q214_SQ001. 8. Données et r..  [Des fichiers de.. ],produit_fichierordi,,contexte de travail
+Q214_SQ002. 8. Données et r..  [Des fichiers de.. ],produit_fichierhteperf,,contexte de travail
+Q214_SQ003. 8. Données et r..  [Des normes pour.. ],produit_norme,,contexte de travail
+Q214_SQ004. 8. Données et r..  [Des scripts de .. ],produit_script,,contexte de travail
+Q214_SQ005. 8. Données et r..  [Des logiciels d.. ],produit_logiciel,,contexte de travail
+Q214_SQ006. 8. Données et r..  [Des notes diver.. ],produit_notesnum,,contexte de travail
+Q214_SQ007. 8. Données et r..  [Des notes diver.. ],produit_notespap,,contexte de travail
+Q221_SQ001. 10. Dans quelle..  [Partage restrei.. ],partagerestreint,,open science
+Q221_SQ002. 10. Dans quelle..  [Partage en lign.. ],partagecontrole,,open science
+Q221_SQ003. 10. Dans quelle..  [Partage en lign.. ],partageligne,,open science
+Q221_SQ004. 10. Dans quelle..  [Partage en lign.. ],partagelicence,,open science
+Q223_SQ001. 11. Avez-vous d..  [D'un comité édi.. ],oblig_comedit,,open science
+Q223_SQ002. 11. Avez-vous d..  [D'un comité éth.. ],oblig_comethique,,open science
+Q223_SQ003. 11. Avez-vous d..  [D'un financeur .. ],oblig_financeur,,open science
+Q223_SQ004. 11. Avez-vous d..  [D'un partenaire.. ],oblig_partenaire,,open science
+Q223_SQ005. 11. Avez-vous d..  [Non],oblig_non,,open science
+Q223_SQ006. 11. Avez-vous d..  [Non applicable],oblig_nonapp,,open science
+Q222_SQ001. 12. De quelles ..  [Par le biais d’.. ],dispo_amov,,open science
+Q222_SQ002. 12. De quelles ..  [Par un système .. ],dispo_envoi,,open science
+Q222_SQ003. 12. De quelles ..  [Par mail],dispo_mail,,open science
+Q222_SQ004. 12. De quelles ..  [Par le biais d’.. ],dispo_servsecu,,open science
+Q222_SQ005. 12. De quelles ..  [Par le biais de.. ],dispo_datapaper,,open science
+Q222_SQ006. 12. De quelles ..  [Par le biais de.. ],dispo_supplem,,open science
+Q222_SQ007. 12. De quelles ..  [Sur un site web],dispo_site,,open science
+Q222_SQ008. 12. De quelles ..  [Par le biais de.. ],dispo_cloudnoninst,,open science
+Q222_SQ009. 12. De quelles ..  [Par le bias de .. ],dispo_cloudinst,,open science
+Q222_SQ010. 12. De quelles ..  [Par le biais d’.. ],dispo_entrepgal,,open science
+Q222_SQ011. 12. De quelles ..  [Par le biais d’.. ],dispo_entrepdiscip,,open science
+Q222_SQ012. 12. De quelles ..  [Par des platefo.. ],dispo_git,,open science
+Q222_SQ013. 12. De quelles ..  [Je ne sais pas],dispo_nsp,,open science
+Q222_SQ014. 12. De quelles ..  [Non applicable],dispo_nonapp,,open science
+"Q224_1. 13. Selon vous,..  [Classement 1]",limite1,,open science
+"Q224_2. 13. Selon vous,..  [Classement 2]",limite2,,open science
+"Q224_3. 13. Selon vous,..  [Classement 3]",limite3,,open science
+"Q224_4. 13. Selon vous,..  [Classement 4]",limite4,,open science
+"Q225. 14. Selon vous,.. ",reutilisable,,open science
+Q226. 16. Dans quelle.. ,reutilise,,open science
+Q227_SQ001. 17. Outre les d..  [Cahier de labor.. ],mettredispo_cahiers,,open science
+Q227_SQ002. 17. Outre les d..  [Logiciels et sc.. ],mettredispo_logiciels,,open science
+Q227_SQ003. 17. Outre les d..  [Documentation d.. ],mettredispo_doc,,open science
+"Q227_SQ004. 17. Outre les d..  [Metadonnées, th.. ]",mettredispo_metado,,open science
+Q227_SQ005. 17. Outre les d..  [Protocole métho.. ],mettredispo_protocole,,open science
+Q227_SQ006. 17. Outre les d..  [Billets de blog.. ],mettredispo_blog,,open science
+Q228_SQ001. 18. Actuellemen..  [Sur  un ordinat.. ],conserv_ordiperso,,open science
+Q228_SQ002. 18. Actuellemen..  [Sur un ordinate.. ],conserv_ordiprof,,open science
+Q228_SQ003. 18. Actuellemen..  [Sur des support.. ],conserv_externe,,open science
+Q228_SQ004. 18. Actuellemen..  [Sur un serveur .. ],conserv_servint,,open science
+Q228_SQ005. 18. Actuellemen..  [Sur un serveur .. ],conserv_servinst,,open science
+Q228_SQ006. 18. Actuellemen..  [Sur un serveur .. ],conserv_servautre,,open science
+Q228_SQ007. 18. Actuellemen..  [Sur un serveur .. ],conserv_servinfrastr,,open science
+Q228_SQ008. 18. Actuellemen..  [Sur un serveur .. ],conserv_servprive,,open science
+Q228_SQ009. 18. Actuellemen..  [Sur un service .. ],conserv_web,,open science
+Q228_SQ010. 18. Actuellemen..  [Sur un service .. ],conserv_archivage,,open science
+Q228_SQ011. 18. Actuellemen..  [Non applicable],conserv_nonappl,,open science
+Q311. 20. Habituellem.. ,tailleequipe,,contexte de travail
+Q3121_SQ001. 21. De qui s'ag..  [Permanent de l'.. ],wavec_perman,,contexte de travail
+Q3121_SQ002. 21. De qui s'ag..  [Non-permanent d.. ],wavec_nonperman,,contexte de travail
+"Q3121_SQ003. 21. De qui s'ag..  [Ingénieur.e, te.. ]",wavec_IT,,contexte de travail
+Q3121_SQ004. 21. De qui s'ag..  [Personnel suppo.. ],wavec_SI,,contexte de travail
+Q3121_SQ005. 21. De qui s'ag..  [Personnel souti.. ],wavec_bib,,contexte de travail
+Q3121_SQ006. 21. De qui s'ag..  [Personnel souti.. ],wavec_jur,,contexte de travail
+Q3121_SQ007. 21. De qui s'ag..  [Personnel de su.. ],wavec_valo,,contexte de travail
+Q3121_SQ008. 21. De qui s'ag..  [Personnel de su.. ],wavec_scouv,,contexte de travail
+Q3121_SQ009. 21. De qui s'ag..  [Personnel de su.. ],wavec_manag,,contexte de travail
+Q3121_SQ010. 21. De qui s'ag..  [Personnel de su.. ],wavec_com,,contexte de travail
+Q3121_SQ011. 21. De qui s'ag..  [Collaboration i.. ],wavec_intnat,,contexte de travail
+Q321. 22. Quel(s) sys.. ,sysOS,,contexte de travail
+Q322_SQ001. 22. Dans les 12..  [Logiciels de ty.. ],log_tab,,contexte de travail
+Q322_SQ002. 22. Dans les 12..  [Logiciels de ty.. ],log_tabsci,,contexte de travail
+Q322_SQ003. 22. Dans les 12..  [Logiciels/plate.. ],log_bdd,,contexte de travail
+Q322_SQ004. 22. Dans les 12..  [Logiciels d’ana.. ],log_visu,,contexte de travail
+Q322_SQ005. 22. Dans les 12..  [Logiciels de tr.. ],log_stat,,contexte de travail
+Q322_SQ010. 22. Dans les 12..  [Logiciels de tr.. ],log_image,,contexte de travail
+Q322_SQ006. 22. Dans les 12..  [Logiciels/plate.. ],log_datasci,,contexte de travail
+Q322_SQ007. 22. Dans les 12..  [Solutions basée.. ],log_prog,,contexte de travail
+Q322_SQ008. 22. Dans les 12..  [Plateformes d’e.. ],log_entrep,,contexte de travail
+Q322_SQ009. 22. Dans les 12..  [Non applicable],log_nonapp,,contexte de travail
+Q323_SQ001. 23. Comment ave..  [En cherchant pa.. ],outil_moi,,contexte de travail
+Q323_SQ002. 23. Comment ave..  [Par les autres .. ],outil_equipe,,contexte de travail
+Q323_SQ003. 23. Comment ave..  [Par d’autres éq.. ],outil_parten,,contexte de travail
+Q323_SQ004. 23. Comment ave..  [Par mon (ancien.. ],outil_employeur,,contexte de travail
+Q323_SQ005. 23. Comment ave..  [Via les réseaux.. ],outil_reso,,contexte de travail
+Q323_SQ006. 23. Comment ave..  [Par une liste d.. ],outil_liste,,contexte de travail
+Q323_SQ007. 23. Comment ave..  [Au cours d’une .. ],outil_formation,,contexte de travail
+Q323_SQ008. 23. Comment ave..  [Au cours d’une .. ],outil_colloque,,contexte de travail
+Q323_SQ009. 23. Comment ave..  [Par des temps i.. ],outil_informel,,contexte de travail
+Q323_SQ010. 23. Comment ave..  [Par une veille .. ],outil_veille,,contexte de travail
+Q323_SQ011. 23. Comment ave..  [Par démarchage .. ],outil_commerce,x,contexte de travail
+Q323_SQ012. 23. Comment ave..  [Non applicable],outil_nonapp,,contexte de travail
+Q324_SQ001. 24. Comment vou..  [Par les autres .. ],forma_equipe,,contexte de travail
+Q324_SQ002. 24. Comment vou..  [Par d’autres éq.. ],forma_parten,,contexte de travail
+Q324_SQ003. 24. Comment vou..  [Au cours d’un a.. ],forma_atelier,,contexte de travail
+Q324_SQ004. 24. Comment vou..  [Par des temps i.. ],forma_informel,,contexte de travail
+Q324_SQ005. 24. Comment vou..  [Par des formati.. ],forma_mooc,,contexte de travail
+Q324_SQ006. 24. Comment vou..  [Par des formati.. ],forma_presentiel,,contexte de travail
+Q324_SQ007. 24. Comment vou..  [Par de la forma.. ],forma_continue,,contexte de travail
+Q324_SQ008. 24. Comment vou..  [Par des tutorie.. ],forma_tuto,,contexte de travail
+Q324_SQ009. 24. Comment vou..  [Par des ouvrage.. ],forma_papier,,contexte de travail
+Q324_SQ010. 24. Comment vou..  [Non applicable],forma_nonapp,,contexte de travail
+Q325_SQ001. 25. Quels types..  [Cahier de labor.. ],collab_cahier,,open science
+Q325_SQ002. 25. Quels types..  [Base de données.. ],collab_bdd,,open science
+Q325_SQ003. 25. Quels types..  [Dossiers partagés],collab_dosspartage,,open science
+Q325_SQ004. 25. Quels types..  [Outils de prise.. ],collab_redacpartage,,open science
+Q325_SQ005. 25. Quels types..  [Outils de parta.. ],collab_codepartage,,open science
+"Q325_SQ006. 25. Quels types..  [Documentation, .. ]",collab_wiki,,open science
+Q325_SQ008. 25. Quels types..  [Outils de gesti.. ],collab_gestionproj,,open science
+Q325_SQ007. 25. Quels types..  [Je travaille es.. ],collab_seul,,open science
+Q411. 28. Connaissez-.. ,connsoutien,,open science
+Q412. 29. Dans quelle.. ,bénésoutien,,open science
+Q413. 30. Dans quelle.. ,oksoutien,,open science
+Q414_SQ001. 31. Quels souti..  [Financier],soutien_fi,,open science
+Q414_SQ002. 31. Quels souti..  [Ressources huma.. ],soutien_rh,,open science
+Q414_SQ003. 31. Quels souti..  [Infrastructures.. ],soutien_infrastr,,open science
+Q414_SQ004. 31. Quels souti..  [Technique],soutien_tech,,open science
+Q414_SQ005. 31. Quels souti..  [Formation],soutien_forma,,open science
+Q414_SQ006. 31. Quels souti..  [Juridique],soutien_jur,,open science
+Q414_SQ007. 31. Quels souti..  [Ethique],soutien_ethique,,open science
+Q414_SQ008. 31. Quels souti..  [Non applicable],soutien_nonapp,,open science
+Q421_SQ001. 32. À quelles é..  [Mise en place a.. ],aide_amont,,open science
+Q421_SQ002. 32. À quelles é..  [Constitution de.. ],aide_constitution,,open science
+Q421_SQ003. 32. À quelles é..  [Traitement et a.. ],aide_traitement,,open science
+Q421_SQ004. 32. À quelles é..  [Stockage des do.. ],aide_stockage,,open science
+Q421_SQ005. 32. À quelles é..  [Mise à disposit.. ],aide_misedispo,,open science
+Q421_SQ006. 32. À quelles é..  [Valorisation de.. ],aide_valo,,open science
+Q421_SQ007. 32. À quelles é..  [Publication et .. ],aide_publi,,open science
+Q421_SQ008. 32. À quelles é..  [Non applicable],aide_nonappl,,open science
+Q422_1. 33. De quels so..  [Classement 1],soutien1,x,open science
+Q422_2. 33. De quels so..  [Classement 2],soutien2,x,open science
+Q422_3. 33. De quels so..  [Classement 3],soutien3,x,open science
+Q422_4. 33. De quels so..  [Classement 4],soutien4,x,open science
+Q423_SQ001. 34. Par qui sou..  [Des spécialiste.. ],aidequi_speetab,,open science
+Q423_SQ002. 34. Par qui sou..  [Des spécialiste.. ],aidequi_sepecentres,,open science
+Q423_SQ003. 34. Par qui sou..  [Un référent (pe.. ],aidequi_labo,,open science
+Q423_SQ004. 34. Par qui sou..  [Une communauté .. ],aidequi_liste,,open science
+Q423_SQ005. 34. Par qui sou..  [Une plateforme .. ],aidequi_platef,,open science
+Q423_SQ006. 34. Par qui sou..  [Des formations .. ],aidequi_formation,,open science
+Q423_SQ007. 34. Par qui sou..  [Des journées d’.. ],aidequi_JE,,open science
+Q423_SQ008. 34. Par qui sou..  [Non applicable],aidequi_nonappl,,open science
+Q511. 36. Depuis comb.. ,anciennete,,contexte de travail
+Q512. 37. Quel est le.. ,structure,,contexte de travail
+Q513_SQ001. 38. Quelle est ..  [Enseignement-su.. ],fct_perma,,contexte de travail
+Q513_SQ002. 38. Quelle est ..  [Enseignement su.. ],fct_nonperma,,contexte de travail
+"Q513_SQ003. 38. Quelle est ..  [Ingénieur.e, te.. ]",fct_IT,,contexte de travail
+Q513_SQ004. 38. Quelle est ..  [Systèmes d’info.. ],fct_SI,,contexte de travail
+"Q513_SQ005. 38. Quelle est ..  [Bibliothèques, .. ]",fct_bib,,contexte de travail
+Q513_SQ006. 38. Quelle est ..  [Affaires juridi.. ],fct_jur,,contexte de travail
+Q513_SQ007. 38. Quelle est ..  [Valorisation de.. ],fct_valo,,contexte de travail
+Q513_SQ008. 38. Quelle est ..  [Transformation .. ],fct_sciouv,,contexte de travail
+"Q513_SQ009. 38. Quelle est ..  [Management, pil.. ]",fct_manag,,contexte de travail
+Q513_SQ010. 38. Quelle est ..  [Communication –.. ],fct_com,,contexte de travail
+Q514. 39. Quel est vo.. ,statut,,contexte de travail
+"Q515_SQ001. 40. Lesquelles ..  [Droit, économie.. ]",disc_dt,,contexte de travail
+Q515_SQ002. 40. Lesquelles ..  [Informatique et.. ],disc_inf,,contexte de travail
+"Q515_SQ003. 40. Lesquelles ..  [Lettres, scienc.. ]",disc_lsh,,contexte de travail
+Q515_SQ004. 40. Lesquelles ..  [Mathématiques],disc_math,,contexte de travail
+Q515_SQ005. 40. Lesquelles ..  [Pluridisciplina.. ],disc_pluri,,contexte de travail
+Q515_SQ006. 40. Lesquelles ..  [Sciences de la .. ],disc_vie,,contexte de travail
+Q515_SQ007. 40. Lesquelles ..  [Sciences de l’i.. ],disc_inge,,contexte de travail
+Q515_SQ008. 40. Lesquelles ..  [Sciences de la .. ],disc_terre,,contexte de travail
+Q515_SQ009. 40. Lesquelles ..  [Sciences de la .. ],disc_matiere,,contexte de travail
+Q516. 41. Quelle est .. ,specialite,,contexte de travail
+Q517. 42. Vous êtes :,sexe,,contexte de travail
