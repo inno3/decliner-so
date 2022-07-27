@@ -1,5 +1,10 @@
 # Décliner la science ouverte
 
+## Modification du 22 au 26/07/2022 par Célya et Emilien
+
+- debug des dernières petites erreurs dans le `SO_reproduction_python_v3.ipynb`
+- ouverture du projet 
+
 ## Modification du 19 et 20/07/2022 par Emilien et Célya
 
 - séparation étape recodage et essai de reproduction pour mettre données brutes diffusables à disposition
