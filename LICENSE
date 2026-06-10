@@ -1,0 +1,13 @@
+This repository is published under multiple licenses depending on the type of
+content:
+
+- Textual content (notes, methodology, documentation):
+  Creative Commons Attribution 4.0 International (CC-BY-4.0).
+- Scripts and data:
+  Licence Ouverte / Open Licence 2.0 (Etalab).
+
+The full license texts are in the LICENSES/ directory:
+- LICENSES/CC-BY-4.0.txt
+- LICENSES/etalab-2.0.txt
+
+See README.md for details on the study, its results and the contributors.
